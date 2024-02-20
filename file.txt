@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Csdsdsd
 main fildse
+=======
+changes made
+main file
+>>>>>>> origin/feature1
